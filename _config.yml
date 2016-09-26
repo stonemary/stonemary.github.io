@@ -7,7 +7,9 @@ title: 自然
 subtitle: 小石头记
 description:
 author: stonemary
-language: zh-CN
+language:
+- zh-CN
+- en
 timezone: America/Vancouver
 
 # URL
@@ -45,7 +47,7 @@ highlight:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 杂, 技术, uncategorized
 tag_map:
 
 # Date / Time format

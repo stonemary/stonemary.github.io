@@ -2,6 +2,7 @@
 title: Sandbox
 date: 2016-09-25 12:05:08
 tags: test
+category: 技术
 ---
 
 Hello world. =)
